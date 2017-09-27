@@ -1,4 +1,4 @@
-# css-animate
+# Everything Animate
 An Introduction to CSS animations and tranform property
 
 <h3>Desired Outcome</h3>
