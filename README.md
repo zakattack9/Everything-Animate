@@ -19,7 +19,7 @@ An Introduction to CSS animations and tranform property
   <li>Fork and Clone this repo</li>
   <li>Create an animation.css file inside your css folder</li>
   <li>Link your animate.css</li>
-  <li><b>DO NOT TOUCH <i>STYLES.CSS</i> FILE</b></li>
+  <li><b>DO NOT TOUCH OR EDIT THE <i>STYLES.CSS</i> FILE</b></li>
 </ol>
 
 ## CSS Tasks
