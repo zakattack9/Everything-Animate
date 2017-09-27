@@ -37,12 +37,12 @@ An Introduction to CSS animations and tranform property
 
 <h3>Stretch Goals (3 Extra points)</h3>
 <ol>
-<li>Create 6 new HTML elements with 6 <b>different</b> `transform` properties</li>
+<li>Create 6 new HTML elements with 6 <i>different</i> `transform` properties</li>
   <li>Add a 5 stage keyframe animation</li>
   <li>Use the shorthand `animation` property to assign it an element</li>
-  <li>Create a button with 5 different styles that change upon <i>hover</i></li>
-  <li>Create 3 new HTML elements with 3 different pseduo selectors on them</li>
-  <li>Use a CSS pseudo class to trigger a keyframe animation or transform property on 3 different elements</li>
+  <li>Create a button with 5 <i>different</i> styles that change upon <i>hover</i></li>
+  <li>Create 3 new HTML elements with 3 <i>different pseduo </i>selectors on them</li>
+  <li>Use a CSS pseudo class to trigger a keyframe animation or transform property on 3 <i>different elements</i></li>
   <li>Make your hover transitions <i>smooth</i> (hint: `transition`)</li>
 </ol>
 
