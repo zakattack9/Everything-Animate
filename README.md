@@ -22,7 +22,8 @@ An Introduction to CSS animations and tranform property
   <li><b>DO NOT TOUCH <i>STYLES.CSS</i> FILE</b></li>
 </ol>
 
-<h5>CSS Tasks</h5>
+<br/>
+<h3>CSS Tasks</h3>
 <ul>
   <li>Apply a transform property to rotate the div with an id of 'rotate'</li>
   <li>Apply a transform property to skew the div with an id of 'skew'</li>
