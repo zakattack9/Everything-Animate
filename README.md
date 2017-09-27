@@ -22,8 +22,7 @@ An Introduction to CSS animations and tranform property
   <li><b>DO NOT TOUCH <i>STYLES.CSS</i> FILE</b></li>
 </ol>
 
-<br/>
-<h3>CSS Tasks</h3>
+## CSS Tasks
 <ul>
   <li>Apply a transform property to rotate the div with an id of 'rotate'</li>
   <li>Apply a transform property to skew the div with an id of 'skew'</li>
@@ -36,7 +35,7 @@ An Introduction to CSS animations and tranform property
 </ul>
 
 
-<h3>Stretch Goals (3 Extra points)</h3>
+## Stretch Goals (3 Extra points)
 <ol>
 <li>Create 6 new HTML elements with 6 <i>different</i> `transform` properties</li>
   <li>Add a 5 stage keyframe animation</li>
